@@ -1,6 +1,6 @@
 import React from 'react';
 import coin from '../assets/bitcoin-01.png';
-import infoIcon from '../assets/info Circle.svg';
+import infoIcon from '../assets/infoCircle.svg';
 import NotficIcon from '../assets/Notification.svg';
 import profileImg from '../assets/Ellipse 1.svg';
 
