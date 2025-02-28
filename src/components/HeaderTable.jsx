@@ -16,7 +16,7 @@ function HeaderTable() {
           <input
             type="text"
             placeholder="Search here"
-            className=".w-full-md pl-10 pr-4 py-2 bg-black text-white rounded-lg border-[#FFFFFF] outline-none focus:ring-2 focus:ring-pink-500"
+            className=".w-full-md pl-10 pr-4 py-2 bg-black text-white rounded-lg border-white outline-none focus:ring-2 focus:ring-pink-500"
           />
         </div>
         <button
